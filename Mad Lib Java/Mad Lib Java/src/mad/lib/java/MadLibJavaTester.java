@@ -24,8 +24,12 @@ public class MadLibJavaTester {
 //        fun.inoutGetters();
 //        fun.labResult();
 
+
+
             fun.gameOn();
 
+            
+            
 //        Scanner input = new Scanner(System.in);
 //        System.out.println("Input word: ");
 //        String word = input.next();
@@ -33,6 +37,29 @@ public class MadLibJavaTester {
 //        word = word.substring(0,1).toUpperCase()+word.substring(1, word.length());
 //        
 //        System.out.println(word);
+
+
+//            fun.delayedPrint(250, "Hello hello bebi");
+
+
+            
+            
+//            this works too!
+//    String text = "you ok...:)";
+//   char[] charArr = text.toCharArray();
+//
+//    for(int i=0; i<=charArr.length-1;i++)
+//    {
+//
+//        System.out.print(charArr[i]);
+//        try 
+//        {
+//            Thread.sleep(1000); 
+//        } catch (Exception e) 
+//        {
+//            e.printStackTrace();
+//        }
     }
     
 }
+
